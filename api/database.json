@@ -1,0 +1,76 @@
+{
+  "penPals": [
+    {
+      "id": 1,
+      "name": "Mark",
+      "email": "markyMark@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "email": "steveySteve@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Conor",
+      "email": "seanConory@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "email": "sarahSriracha@gmail.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "type": "work"
+    },
+    {
+      "id": 2,
+      "type": "acquaintance"
+    },
+    {
+      "id": 3,
+      "type": "family"
+    },
+    {
+      "id": 4,
+      "type": "friend"
+    }
+  ],
+  "letters": [
+    {
+      "id": 1,
+      "contents": "fake letterrrr",
+      "authorId": 1,
+      "recipientId": 1,
+      "topicId": 1,
+      "dateSent": 1679064662706
+    },
+    {
+      "contents": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "dateSent": 1679427433969,
+      "authorId": 2,
+      "recipientId": 2,
+      "topicId": 2,
+      "id": 2
+    },
+    {
+      "contents": "aaaaaaaaaaaaaa. joejdokjqepkfdojqepklfdojejfjeofjefjeokfffffffffffffffffffffffffffffffffffffs",
+      "dateSent": 1679431007405,
+      "authorId": 1,
+      "recipientId": 3,
+      "topicId": 3,
+      "id": 3
+    },
+    {
+      "contents": "lola lsof]ep pake apkpmpfep ekfkpfl",
+      "dateSent": 1679510864812,
+      "authorId": 3,
+      "recipientId": 3,
+      "topicId": 3,
+      "id": 4
+    }
+  ]
+}

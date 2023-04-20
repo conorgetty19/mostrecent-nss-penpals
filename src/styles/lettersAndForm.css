@@ -1,0 +1,63 @@
+.finishedLetter {
+    background-color: #bfe6f4;
+    width: 400px;
+    margin: 30px;
+    margin-top: 15px;
+    overflow-wrap: break-word;
+    hyphens: manual;
+    padding-right: 45px;
+    padding: 30px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    border: solid #84c4db 1px;
+    box-shadow: 3px 3px 7px black;
+}
+
+.field {
+    margin: 30px;
+}
+
+button {
+    margin: 30px;
+    margin-top: 0px;
+}
+
+.authorName,
+.recipientName {
+    width: 400px;
+}
+
+textarea {
+    resize: none;
+}
+
+.letterGreeting {
+    margin-bottom: 20px;
+}
+
+.letterBody {
+    margin-bottom: 20px;
+}
+
+.letterSendoffName {
+    margin-bottom: 20px;
+}
+
+.letterSendoffDate {
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+.topicFromFinishedLetter {
+    font-size: 12px;
+    background-color: rgb(245, 245, 245);
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 36px;
+    border:solid rgb(116, 116, 116) 1px;
+    width: fit-content;
+    padding: 0px 7px;
+    box-shadow: 3px 3px 7px black;
+    margin-bottom: 0px;
+}
